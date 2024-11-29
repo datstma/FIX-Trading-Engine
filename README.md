@@ -1,5 +1,3 @@
-Let me create a README.md that focuses on demonstrating FIX protocol interaction for educational purposes.
-
 # FIX Protocol Trading Engine Demo
 
 ## Overview
@@ -155,8 +153,6 @@ Feel free to reach out for:
 * Collaboration opportunities
 
 Remember: This is a learning tool to understand FIX protocol and trading system basics. Use it to explore and understand, but build proper safeguards and optimizations for any production system.
-
-I'll add those important sections to the README.md.
 
 ## Database Setup
 
