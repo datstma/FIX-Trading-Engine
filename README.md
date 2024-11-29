@@ -3,6 +3,10 @@
 ## Overview
 This project demonstrates a basic implementation of an automated trading engine using the FIX (Financial Information eXchange) protocol. It's designed as an educational resource to show how one can interact with FIX protocol streams in a hands-on way, particularly useful for those interested in building their own trading systems.
 
+When building my first automated S&P500 terms trading engine, it was really hard to find live examples on how to work with the FIX streaming protocol using in automated trading.
+This code, or rather parts of it has been used in live certified production in later projects and business ventures. 
+Figured it's time to pay things forward, and share my bits and bobs. The code is not pretty, efficent or "propper" in any way, nor is it supposed to. When I sketch out key functions, I prefer them self contained. But, it's functional code, a mvn clean build will work, "all" you need is a testing/ demo account with a clearing house to try it out with. ;)
+
 *Important Note: This code is meant for educational purposes and demonstration only. It is not production-ready and should not be used in live trading environments without significant improvements.*
 
 ## What This Project Shows
